@@ -1,0 +1,20 @@
+<div class="tesclass res-header-2">
+	<span class="marginInfo">
+		Email : info@cuckoo.co.id
+	</span>
+	<span class="marginInfo">
+	Toll-free: 0800 1811 629
+	</span>
+	<span class="marginInfo">
+		WA : 0811 1811 629
+	</span>
+	<span>
+		<a href="https://www.w3schools.com" class="tesclass"><i class="fab fa-facebook-square"></i></a>
+	</span>
+	<span>
+		<a href="https://www.w3schools.com" class="tesclass"><i class="fab fa-instagram"></i></a>
+	</span>
+	<span>
+		<a href="https://www.w3schools.com" class="tesclass"><i class="fab fa-youtube-square"></i></a>
+	</span>
+</div>
